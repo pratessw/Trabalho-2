@@ -1,0 +1,154 @@
+body{
+    height: 100%;
+    background: linear-gradient(to bottom, #959393, #000000);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:medium;
+    color: wheat;
+}
+.titulo{
+    text-align: center;
+    color: white;
+}
+.titulo2{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+.cafe-centro{
+    background-color: rgb(83, 8, 8);
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+    margin: 50px;
+}
+h2{
+    font-size:medium;
+    color: white;
+}
+h3{
+    font-size:medium;
+    color: white;
+}
+.botao{
+    display: inline-block;
+    padding: 10px 20px; 
+    background-color:rgb(83, 8, 8);
+    color: rgb(255, 255, 255); 
+    text-decoration: none;
+    border-radius: 5px; 
+    transition: background-color 0.3s;
+}
+
+.botao:hover{
+    background-color:rgb(0, 0, 0);
+}
+.menu{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    transition: background-color 0.3s, transform 0.3s;
+}
+h7{
+    padding-top: 2%;
+    font-size: large;
+}
+h5{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:large ;
+    padding-top: 1%;
+}
+h6{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+.fim-da-pag{
+    background-color: rgb(83, 8, 8);
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+    margin: 50px;
+}
+.cha-centro{
+    background-color: rgb(83, 8, 8);
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+    margin: 50px;
+    font-size:larger;
+}
+.lanches-centro{
+    background-color: rgb(83, 8, 8);
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+    margin: 50px;
+    font-size:larger;
+}
+.menu2{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    transition: background-color 0.3s, transform 0.3s;
+}
+h8{
+    padding-top: 2%;
+    font-size: large;
+}
+h9{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:large ;
+    padding-top: 2%;
+}
+h10{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    padding-top: 2%;
+}
+.cafes-centro{
+    background-color: rgb(83, 8, 8);
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+    margin: 50px;
+    font-size:larger;
+}
+.menu3{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    transition: background-color 0.3s, transform 0.3s;
+}
+h15{
+    padding-top: 2%;
+    font-size: large;
+}
+h16{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:large ;
+    padding-top: 2%;
+}
+h17{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    padding-top: 2%;
+}
+.titulo3{
+    color: white;
+}
+.titulo4{
+    color: white;
+}
+.titulo5{
+    color: white;
+}
+.contate{
+    padding-top: 2%;
+    text-align: center;
+    padding-bottom: 2%;
+}

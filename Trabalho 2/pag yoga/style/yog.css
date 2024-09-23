@@ -1,0 +1,126 @@
+body{
+    height: 100%;
+    background: linear-gradient(to bottom, #047f50, #beddd2);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:medium;
+    color: white;
+}
+.titulo{
+    text-align: center;
+    color: white;
+}
+.titulo2{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+.yoga-centro{
+    background: linear-gradient(to bottom, #10dceb, #00f300);
+    padding: 20px;
+    text-align: center;
+    border-radius: 100px;
+    margin: 50px;
+}
+h2{
+    font-size:medium;
+    color: white;
+    text-align: center;
+}
+h3{
+    font-size:medium;
+    color: white;
+    text-align: center;
+}
+.botao{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.botao1{
+    display: inline-block;
+    padding: 10px 20px; 
+    background: linear-gradient(to bottom, #10dceb, #1800f3);
+    color: rgb(255, 255, 255); 
+    text-decoration: none;
+    border-radius: 100px; 
+    transition: background-color 0.3s;
+}
+
+.botao1:hover{
+    background-color:rgb(0, 255, 42);
+}
+.menu{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    transition: background-color 0.3s, transform 0.3s;
+}
+h7{
+    padding-top: 2%;
+    font-size: large;
+    padding-top: 3%;
+}
+h5{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:large ;
+    padding-top: 1%;
+}
+h6{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    padding-top: 2%;
+}
+.fim-da-pag{
+    background: linear-gradient(to bottom, #10dceb, #00f300);
+    padding: 20px;
+    text-align: center;
+    border-radius: 100px;
+    margin: 50px;
+}
+.yog-centro{
+    background: linear-gradient(to bottom, #10dceb, #1800f3);
+    padding: 20px;
+    text-align: center;
+    border-radius: 100px;
+    margin: 50px;
+    font-size:larger;
+}
+h8{
+    padding-top: 2%;
+    font-size: large;
+}
+h9{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:large ;
+    padding-top: 2%;
+}
+h10{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    padding-top: 2%;
+}
+.yogs-centro{
+    background: linear-gradient(to bottom, #10dceb, #1800f3);
+    padding: 20px;
+    text-align: center;
+    border-radius: 100px;
+    margin: 50px;
+    font-size:larger;
+}
+.titulo3{
+    color: rgb(0, 0, 0);
+    font-size:larger;
+}
+.titulo4{
+    color: white;
+}
+.titulo5{
+    color: white;
+}
+.contato{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+}

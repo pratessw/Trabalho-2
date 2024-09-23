@@ -1,0 +1,76 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to bottom, #28a745, #007BFF);
+}
+
+header {
+    background: #007BFF;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+section {
+    padding: 20px;
+    margin: 20px;
+    background: white;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.speakers {
+    display: flex;
+    justify-content: space-around;
+}
+
+.speaker-card {
+    text-align: center;
+    width: 30%;
+}
+
+.speaker-card img {
+    border-radius: 50%;
+}
+
+.agenda .timeline {
+    display: flex;
+    justify-content: space-between;
+}
+
+.event {
+    width: 45%;
+}
+
+.registration {
+    text-align: center;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background: #28a745;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.btn:hover {
+    background: #218838;
+}
+
+.location {
+    margin-top: 30px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: #333;
+    color: white;
+}

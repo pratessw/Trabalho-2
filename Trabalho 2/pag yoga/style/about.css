@@ -1,0 +1,39 @@
+body{
+    background: linear-gradient(to bottom, #047f50, #beddd2);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+h1{
+    text-align: center;
+    padding-bottom: 3%;
+    color: white;
+}
+.container{
+    display: flex; 
+    align-items: center; 
+    justify-content: space-between; 
+    margin: 20px;
+}
+.texto {
+    flex: 1; 
+    margin-right: 20px; 
+    color: white;
+}
+.imagem img {
+    max-width: 100%; 
+    height: auto;
+    transition: all 0.3s ease;
+}
+.imagem img:hover{
+    transform: scale(1.05);
+}
+.fim-da-pag{
+    background: linear-gradient(to bottom, #0050fd, #14d444);
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+    margin: 50px;
+}
+.titulo{
+    text-align: center;
+}
